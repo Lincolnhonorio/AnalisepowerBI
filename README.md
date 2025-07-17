@@ -24,4 +24,5 @@ O relatório foi construído com base em um conjunto de dados representativo de 
 
 ## 📷 Prévia do Dashboard
 
-![Dashboard](Dashboard Lab01.png)
+![Dashboard](Dashboard%20Lab01.png)
+
